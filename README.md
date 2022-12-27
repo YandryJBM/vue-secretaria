@@ -15,4 +15,3 @@ This project uses [PNPM](https://pnpm.io/)
 
 ## Screenshots
 
-![App Screenshot](/preview.png)
